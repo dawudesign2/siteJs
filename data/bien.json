@@ -1,0 +1,49 @@
+[
+    {
+      "pictures": [
+
+      ],
+      "purchase": false,
+      "rent": true,
+      "type": "apartment",
+      "area": 42.33,
+      "stage": 0,
+      "room": 3,
+      "price": 711,
+      "location": "",
+      "description": "Non id voluptate cupidatat irure sunt aliquip ex excepteur anim in minim ut ex eu. Dolor reprehenderit eu tempor ut proident laborum Lorem enim enim tempor mollit. Deserunt eu deserunt eiusmod cupidatat aliquip cupidatat aliqua veniam dolore nisi ea. Tempor commodo reprehenderit mollit tempor fugiat et dolore minim irure id. Veniam cupidatat enim consequat velit ad. Sint pariatur ipsum excepteur magna laborum ipsum ipsum dolore laboris culpa do sint nulla. Incididunt do nulla aliquip do in exercitation.",
+      "features": [
+          {
+            "construction": 2007,
+            "settingLocation": "calm",
+            "additionalAreas": "Parking",
+            "serviceAccessibility": "no elevator"
+          }
+      ]
+
+    },
+    {
+        "pictures": [
+  
+        ],
+        "purchase": false,
+        "rent": true,
+        "type": "apartment",
+        "area": 42.33,
+        "stage": 0,
+        "room": 3,
+        "price": 711,
+        "location": "",
+        "description": "Non id voluptate cupidatat irure sunt aliquip ex excepteur anim in minim ut ex eu. Dolor reprehenderit eu tempor ut proident laborum Lorem enim enim tempor mollit. Deserunt eu deserunt eiusmod cupidatat aliquip cupidatat aliqua veniam dolore nisi ea. Tempor commodo reprehenderit mollit tempor fugiat et dolore minim irure id. Veniam cupidatat enim consequat velit ad. Sint pariatur ipsum excepteur magna laborum ipsum ipsum dolore laboris culpa do sint nulla. Incididunt do nulla aliquip do in exercitation.",
+        "features": [
+            {
+              "construction": 2007,
+              "settingLocation": "calm",
+              "additionalAreas": "Parking",
+              "serviceAccessibility": "no elevator"
+            }
+        ]
+  
+      }
+
+]
