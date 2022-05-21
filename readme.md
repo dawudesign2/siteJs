@@ -5,4 +5,3 @@
 # Une page pour afficher les détails du bien 
 # Un back office, pour voir les biens encores dispo et les gérer (dire que ça à été vendu ou plus dispo, promotion, un nouveau prix)
 ## Créer des biens, (prix, superficie, photo, localisation, nbre de pièce etc)
-
