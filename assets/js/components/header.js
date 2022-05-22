@@ -16,10 +16,15 @@ const Header = () => {
         nav.appendChild(a);
     }
     
-    link('#', 'type de bien');
-    link('#', 'achat & location');
-    link('#', 'ville');
-    link('#', 'rechercher');
+    link('#', 'Achat');
+    link('#', 'Louer');
+    link('#', 'Vendre');
+    link('#', 'Estimer');
+
+    const container = document.createElement('div');
+    container.classList.toggle('container');
+    header.appendChild('container');
+
 }
 
 export default Header;
