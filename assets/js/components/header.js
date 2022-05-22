@@ -23,8 +23,7 @@ const Header = () => {
 
     const container = document.createElement('div');
     container.classList.toggle('container');
-    header.appendChild('container');
-
+    header.appendChild(container);
 }
 
 export default Header;
