@@ -1,0 +1,33 @@
+@import '../sass/libs/reset.scss';
+@import '../sass/libs/desktop.scss';
+
+.header {
+    background: url(../img/pexels-expect-best.jpeg);
+    background-size: cover;
+    height: 420px;
+    width: 100%;
+}
+
+.nav {
+    background-color: #fff;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    a {
+        font-weight: 300;
+        font-size: 18px;
+        text-decoration: none;
+        color: #333;
+        padding: 12px;
+        transition: ease-in-out 0.5s;
+        &:hover {
+            color: #ff0000;
+        }
+    }
+}
+
+
+
+
+
+
